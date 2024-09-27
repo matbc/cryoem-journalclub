@@ -33,3 +33,4 @@
 | ----- | ----- | ----- | ----- |
 | Sep 12 | 汪泓宇 | <a href="https://arxiv.org/abs/2007.03898">NVAE: A Deep Hierarchical Variational Autoencoder</a> | <a href="ppt/20240912-汪泓宇.pdf"><img src="pic/file.jpg" height="18px" width="auto" /></a> |
 | Sep 12 | 祝健颖 | <a href="https://arxiv.org/abs/2404.10178">CryoMAE: Few-Shot Cryo-EM Particle Picking with Masked Autoencoders</a> | <a href="ppt/20240912-祝健颖.pptx"><img src="pic/file.jpg" height="18px" width="auto" /></a> |
+| Sep 26 | 廖俊文 | <a href="https://www.biorxiv.org/lookup/doi/10.1101/2024.05.30.596729">Revealing biomolecular structure and motion with neural ab initio cryo-EM reconstruction</a> | <a href="ppt/20240926-廖俊文.pdf"><img src="pic/file.jpg" height="18px" width="auto" /></a> |
